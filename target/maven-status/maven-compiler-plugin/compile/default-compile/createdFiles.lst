@@ -1,0 +1,4 @@
+com\niit\dao\UserDAOImpl.class
+com\niit\controller\LoginController.class
+com\niit\dao\UserDAO.class
+com\niit\model\User.class
